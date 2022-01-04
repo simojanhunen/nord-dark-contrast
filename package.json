@@ -4,6 +4,7 @@
     "description": "A more contrast version of the Nord Wave theme.",
     "version": "0.0.1",
     "author": "Simo Janhunen",
+    "publisher": "simojanhunen",
     "repository": "https://github.com/simojanhunen/nord-dark-contrast",
     "engines": {
         "vscode": "^1.63.0"
