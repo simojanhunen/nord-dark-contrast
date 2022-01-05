@@ -18,8 +18,8 @@
 ### Used settings
 ```json
 "workbench.activityBar.visible": false,
-"workbench.editor.wrapTabs": true,
 "editor.fontFamily": "Hack",
 "window.menuBarVisibility": "toggle",
+"editor.minimap.enabled": false,
 ```
-See [here](https://sourcefoundry.org/hack/) for ___Hack___ font.
+See [here](https://sourcefoundry.org/hack/) for Hack font.
