@@ -7,7 +7,7 @@
     "publisher": "simojanhunen",
     "repository": "https://github.com/simojanhunen/nord-dark-contrast",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.14.0"
     },
     "categories": [
         "Themes"
@@ -24,7 +24,7 @@
             {
                 "label": "Nord Dark Contrast",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nord Dark Contrast-color-theme.json"
+                "path": "./themes/nord-dark-contrast_color-theme.json"
             }
         ]
     },
