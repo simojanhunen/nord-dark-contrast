@@ -10,3 +10,8 @@
 - Added more contrast between elements
 - Added missing color to find options
 - Updated example
+
+## [0.1.1] - 2022-01-07
+### Updated
+- README
+- Updated required vscode release
