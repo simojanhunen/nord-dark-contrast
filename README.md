@@ -24,5 +24,7 @@ Add following settings to _settings.json_
 - `"explorer.openEditors.visible": 0`       &#8211; Hides the _OPEN EDITORS_ tab from the Explorer tab.
 - `"editor.glyphMargin": false`             &#8211; Hides the glyph margin, i.e., space left of row numbers.
 - `"breadcrumbs.enabled": false`            &#8211; Hides the breadcrumbs between the editor and active tab.
+- `"editor.renderWhitespace": "boundary"`   &#8211; Adds a dot symbol for each whitespace before the first character on each line.
+- `"editor.guides.indentation": false`      &#8211; Removes verical indentation lines.
 
 The readability could be further increased with a monospace font such as the [Hack](https://sourcefoundry.org/hack/). Install the desired font and add it to _settings.json_, e.g., `"editor.fontFamily": "Hack"`.
