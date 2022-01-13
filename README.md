@@ -5,27 +5,43 @@
     <div>
     A more contrast version of the <a target='_blank' href='https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave'>Nord Wave</a> theme.
     </div>
+    <div>
+    <a><img src="https://vsmarketplacebadge.apphb.com/version-short/simojanhunen.nord-dark-contrast.svg" /></a>
+    <a><img src="https://vsmarketplacebadge.apphb.com/installs/simojanhunen.nord-dark-contrast.svg" /></a>
+    <a><img src="https://img.shields.io/badge/License-MIT-blue.svg"  /></a>
+    </div>
 </div>
 
-### Example
+# Gallery
 ![Screenshot](assets/screenshot.png)
 
-## Recommendations for used settings and extensions
+# Suggestions
 
-Install following extensions
-- [City Lights Icon package (Black & White)](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc) &#8211; A minimal black & white file icon package for minimal distractions.
-- [Fluent Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons)                                &#8211; Minimal product icons in, e.g., activity bar.
-- [Active File In StatusBar](https://marketplace.visualstudio.com/items?itemName=RoscoP.ActiveFileInStatusBar)                  &#8211; A non-distracting position to display active file path.
+### Font
+- [Hack](https://sourcefoundry.org/hack/).
 
-Add following settings to _settings.json_
-- `"workbench.activityBar.visible": false`  &#8211; Hides activity bar.
-- `"window.menuBarVisibility": "toggle"`    &#8211; Makes menu bar visible when the bound key is pressed, by default the `Alt` key.
-  - This setting will not work as intended on Linux distributions without setting `"window.titleBarStyle": "custom"`
-- `"editor.minimap.enabled": false`         &#8211; Hides the file preview from the scroll bar.
-- `"explorer.openEditors.visible": 0`       &#8211; Hides the _OPEN EDITORS_ tab from the Explorer tab.
-- `"editor.glyphMargin": false`             &#8211; Hides the glyph margin, i.e., space left of row numbers.
-- `"breadcrumbs.enabled": false`            &#8211; Hides the breadcrumbs between the editor and active tab.
-- `"editor.renderWhitespace": "boundary"`   &#8211; Adds a dot symbol for each whitespace before the first character on each line.
-- `"editor.guides.indentation": false`      &#8211; Removes verical indentation lines.
+### Extensions
+- [City Lights Icon package (Black & White)](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc).
 
-The readability could be further increased with a monospace font such as the [Hack](https://sourcefoundry.org/hack/). Install the desired font and add it to _settings.json_, e.g., `"editor.fontFamily": "Hack"`.
+### Settings
+```json
+{
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "editor.glyphMargin": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.guides.indentation": false,
+    "editor.folding": false,
+}
+```
+
+# Installation
+
+- Launch Quick Open with `Cmd+P` or `Ctrl+P`
+- Paste the command `ext install nord-dark-contrast`
+- Click __Install__ to install it
+- Click __Reload__ to reload your editor
+- Code/File ＞ Preferences ＞ Color Theme ＞ Nord Dark Contrast

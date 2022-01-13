@@ -2,7 +2,7 @@
     "name": "nord-dark-contrast",
     "displayName": "Nord Dark Contrast",
     "description": "A more contrast version of the Nord Wave theme.",
-    "version": "0.1.1",
+    "version": "0.2.1",
     "author": "Simo Janhunen",
     "publisher": "simojanhunen",
     "repository": "https://github.com/simojanhunen/nord-dark-contrast",
@@ -12,6 +12,11 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#212121",
+        "theme": "dark"
+    },
+    "license": "(MIT OR Apache-2.0)",
     "keywords": [
         "nord",
         "dark",

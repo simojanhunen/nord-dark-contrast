@@ -15,3 +15,11 @@
 ### Updated
 - README
 - Updated required vscode release
+
+## [0.2.1] - 2022-01-13
+### Updated
+- README
+- Toned down difference editor colors and indicator
+
+### Added
+- LICENSE
