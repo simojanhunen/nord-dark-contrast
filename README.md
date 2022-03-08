@@ -46,3 +46,9 @@
     "editor.folding": false,
 }
 ```
+<br>
+
+# 🐛 Issues, improvements, and utilization
+
+- Please use [Issues](https://github.com/simojanhunen/nord-dark-contrast/issues) tab to communicate any troubling issues or possible improvements.
+- Feel free to fork the repository and use this theme as a base for [creating](https://code.visualstudio.com/docs/getstarted/themes#_creating-your-own-color-theme) your very own theme, you may provide credits but it's not by any means mandatory to do so.
