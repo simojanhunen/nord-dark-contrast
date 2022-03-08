@@ -23,3 +23,8 @@
 
 ### Added
 - LICENSE
+
+## [0.2.2] - 2022-03-09
+### Updated
+- README
+- Fixed gutter color scheme bug

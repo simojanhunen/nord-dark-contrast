@@ -5,23 +5,32 @@
     <div>
     A more contrast version of the <a target='_blank' href='https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave'>Nord Wave</a> theme.
     </div>
+    <br>
     <div>
-    <a><img src="https://vsmarketplacebadge.apphb.com/version-short/simojanhunen.nord-dark-contrast.svg" /></a>
-    <a><img src="https://vsmarketplacebadge.apphb.com/installs/simojanhunen.nord-dark-contrast.svg" /></a>
-    <a><img src="https://img.shields.io/badge/License-MIT-blue.svg"  /></a>
+    <a><img src="https://img.shields.io/visual-studio-marketplace/v/simojanhunen.nord-dark-contrast?color=%230e687c7b&style=for-the-badge" /></a>
+    <a><img src="https://img.shields.io/visual-studio-marketplace/i/simojanhunen.nord-dark-contrast?color=%230e687c7b&style=for-the-badge" /></a>
+    <a><img src="https://img.shields.io/github/license/simojanhunen/nord-dark-contrast?color=%230e687c7b&style=for-the-badge"  /></a>
     </div>
-</div>
+</div><br>
 
-# Gallery
+# 📷 Gallery
 ![Screenshot](assets/screenshot.png)
 
-# Suggestions
+# 🔌 Installation
+
+- Launch Quick Open with `Cmd+P` or `Ctrl+P`
+- Paste the command `ext install nord-dark-contrast`
+- Click __Install__ to install it
+- Click __Reload__ to reload your editor
+- Code/File ＞ Preferences ＞ Color Theme ＞ Nord Dark Contrast<br><br>
+
+# ✨ Suggestions
 
 ### Font
-- [Hack](https://sourcefoundry.org/hack/).
+- [Hack](https://sourcefoundry.org/hack/)
 
 ### Extensions
-- [City Lights Icon package (Black & White)](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc).
+- [City Lights Icon package (Black & White)](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
 ### Settings
 ```json
@@ -37,11 +46,3 @@
     "editor.folding": false,
 }
 ```
-
-# Installation
-
-- Launch Quick Open with `Cmd+P` or `Ctrl+P`
-- Paste the command `ext install nord-dark-contrast`
-- Click __Install__ to install it
-- Click __Reload__ to reload your editor
-- Code/File ＞ Preferences ＞ Color Theme ＞ Nord Dark Contrast
