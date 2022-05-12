@@ -44,6 +44,7 @@
     "editor.renderWhitespace": "boundary",
     "editor.guides.indentation": false,
     "editor.folding": false,
+    "editor.bracketPairColorization.enabled": false,
 }
 ```
 <br>

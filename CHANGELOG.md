@@ -28,3 +28,8 @@
 ### Updated
 - README
 - Fixed gutter color scheme bug
+
+## [0.2.3] - 2022-05-12
+### Updated
+- README
+- Color scheme: added more contrast to different menus and bars
