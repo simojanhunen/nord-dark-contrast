@@ -33,3 +33,13 @@
 ### Updated
 - README
 - Color scheme: added more contrast to different menus and bars
+
+## [0.3.0] - 2023-08-10
+### Updated
+- README
+
+### Fixed
+- "sideBar.background" property that was broken in an update
+
+### Added
+- Lighter version of the main theme to increase readability on darker panels
