@@ -14,7 +14,17 @@
 </div><br>
 
 # 📷 Gallery
-![Screenshot](assets/screenshot.png)
+<div align='center'>
+    <div><b>Nord Dark Contrast</b></div>
+</div>
+
+![Screenshot](assets/screenshot.png)<br>
+
+<div align='center'>
+    <div><b>Nord Dark Contrast Lighter</b></div>
+</div>
+
+![Screenshot](assets/screenshot2.png)
 
 # 🔌 Installation
 
@@ -22,15 +32,12 @@
 - Paste the command `ext install nord-dark-contrast`
 - Click __Install__ to install it
 - Click __Reload__ to reload your editor
-- Code/File ＞ Preferences ＞ Color Theme ＞ Nord Dark Contrast<br><br>
+- Code/File ＞ Preferences ＞ Color Theme ＞ `Nord Dark Contrast` | `Nord Dark Contrast Lighter`<br><br>
 
 # ✨ Suggestions
 
 ### Font
 - [Hack](https://sourcefoundry.org/hack/)
-
-### Extensions
-- [City Lights Icon package (Black & White)](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 
 ### Settings
 ```json
