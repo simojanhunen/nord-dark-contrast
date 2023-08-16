@@ -3,7 +3,7 @@
 <div align='center'>
     <img src='assets/icon.png' alt='icon' width='100px'>
     <div>
-    A more contrast version of the <a target='_blank' href='https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave'>Nord Wave</a> theme.
+    More contrast versions of the <a target='_blank' href='https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave'>Nord Wave</a> theme.
     </div>
     <br>
     <div>
