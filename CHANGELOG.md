@@ -43,3 +43,8 @@
 
 ### Added
 - Lighter version of the main theme to increase readability on darker panels
+
+## [0.3.1] - 2023-08-16
+### Fixed
+- PeekView window transparency
+- Minor typos
