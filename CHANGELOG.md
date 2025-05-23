@@ -48,3 +48,7 @@
 ### Fixed
 - PeekView window transparency
 - Minor typos
+
+## [0.4.0] - 2025-05-23
+### Added
+- New theme variant with clearer outlines on activity

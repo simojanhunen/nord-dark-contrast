@@ -2,7 +2,7 @@
     "name": "nord-dark-contrast",
     "displayName": "Nord Dark Contrast",
     "description": "More contrast versions of the Nord Wave theme.",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "author": "Simo Janhunen",
     "publisher": "simojanhunen",
     "repository": "https://github.com/simojanhunen/nord-dark-contrast",
@@ -32,9 +32,19 @@
                 "path": "./themes/nord-dark-contrast-color-theme.json"
             },
             {
+                "label": "Nord Dark Contrast Outlined",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-dark-contrast_outlined-color-theme.json"
+            },
+            {
                 "label": "Nord Dark Contrast Lighter",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nord-dark-contrast_lighter-color-theme.json"
+            },
+            {
+                "label": "Nord Dark Contrast Lighter Outlined",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-dark-contrast_lighter_outlined-color-theme.json"
             }
         ]
     },
